@@ -1,5 +1,7 @@
 # online_retail
 
+https://medium0.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fusing-machine-learning-to-predict-customers-next-purchase-day-7895ad49b4db
+
 ## Table of Contents
 
 1. [Installation](#installation)
